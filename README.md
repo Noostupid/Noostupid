@@ -1,6 +1,5 @@
 ## Xin chào mọi người . Mình là Minh👋
-<img src="![OIG4](https://github.com/user-attachments/assets/b138fd7e-394c-47ae-9bbb-8b3ef4483229)
-" width="512px"/>
+<img src="https://github.com/Noostupid/Noostupid/blob/main/OIG4.jpg?raw=true" width="512px"/>
 
 ## 🌐Socials
 [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/https://www.facebook.com/profile.php?id=100017881998351) 
